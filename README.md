@@ -56,7 +56,3 @@ src/
 ## API
 
 Приложение использует API `https://status.neuralgeneration.com/api/currency` для получения курсов валют.
-
-## Автор
-
-[Ваше имя] 

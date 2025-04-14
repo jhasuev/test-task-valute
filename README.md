@@ -23,7 +23,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
+git clone https://github.com/jhasuev/test-task-valute
 ```
 
 2. Установите зависимости:
